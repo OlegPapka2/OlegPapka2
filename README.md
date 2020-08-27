@@ -3,7 +3,7 @@
 -  :warning: I’m currently learning everything
 -  :octocat: 2020 Goals: Contribute more to Open Source projects
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
