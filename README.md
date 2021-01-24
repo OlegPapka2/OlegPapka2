@@ -2,11 +2,6 @@
 
 -  :warning: I’m currently learning Python
 -  :octocat: 2021 Goals: End all my old projects
+-  ℹ️ Now: Developing LedStrip project
 
-### Contact me:
-
-[<img align="left" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3893/3893185.svg" />][website]
-[<img align="left" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />][instagram]
-
-[website]: https://olegpapka2.github.io/portfolio/
-[instagram]: https://www.instagram.com/oleg_papka
+[Website](https://olegpapka2.github.io/portfolio/)
