@@ -4,4 +4,4 @@
 -  :octocat: 2021 Goals: End all my old projects
 -  ℹ️ Now: Developing LedStrip project
 
-[Website](https://olegpapka2.github.io/portfolio/)
+[Website](https://olegpapka.tk)
